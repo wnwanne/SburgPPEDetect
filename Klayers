@@ -1,0 +1,2 @@
+arn:aws:lambda:us-east-1:770693421928:layer:Klayers-python38-Pillow:14
+arn:aws:lambda:us-east-1:770693421928:layer:Klayers-python38-numpy:22
